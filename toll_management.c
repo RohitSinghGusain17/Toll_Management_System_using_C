@@ -125,7 +125,7 @@ void fetch_records() {
 int main() {
 	int choice;
 	do {
-	printf("\nToll Management System\n");
+	printf("\nWELCOME TO TOLL MANAGENEMT SYSTEM BY ROHIT\n");
 	printf("----------------------\n");
 	printf("1. Add Record\n");
 	printf("2. Update Record\n");
